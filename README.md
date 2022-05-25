@@ -1,9 +1,7 @@
-***THIS PROJECT IS NOT MAINTAINED ANYMORE.*** Don't hesitate to fork it. I don't have enough time and energy to continue in parallel of my work and my life of husband and father of two. I'll be happy to be aware that somebody have forked it for a better future. 🤎 on all of you
-
 # Never-Consent
 Never consent to any GDPR consent management platform. All permissions are immediatly refused.
 
-**/!\ IMPORTANT:** This extension completes uBlock, AdBlock & co, they don't serve the same objectives. We promote usage of adblockers in completion. Never-Consent will (try to) reject consent as possible, it will not block ads, it will not be able block all cookies if sites doesn't care whether you / never-consent said nope.
+**/!\ IMPORTANT:** This extension completes uBlock, AdBlock & co, they don't serve the same objectives. We promote usage of adblockers in completion. Never-Consent will (try to) reject consent as much as possible, it will not block ads, it will not be able block all cookies if sites doesn't care whether you, or never-consent, said no.
 
 #### Filterlist
 I recommend to add this list to uBlock in addition: https://secure.fanboy.co.nz/ (Add Anti-Cookie Messages link)
@@ -98,9 +96,9 @@ Here are a list of sites for each platform where you can try your PRs if you wan
 
 Based on the good ***[GDPNope](https://chrome.google.com/webstore/detail/gdpnope/kaobbaeanleebomkmkleekoeefldjcpi?hl=es)***.
 
-Lot of sites have made their own system, it's complicated to manage them all. But by auto-refusing most of the majors CSP providers we try to do the most we can. 
+Lot of sites have made their own system, it's complicated to manage them all. But by auto-refusing most of the majors CSP providers we try to do the most we can.
 
-I'm working on a solution for sites wich are not using a platform, if you have any ideas, please, submit it. 
+I'm working on a solution for sites wich are not using a platform, if you have any ideas, please, submit it.
 
 Many thanks to:
 - SVG Silh which provides the great [logo](https://svgsilh.com/image/1299163.html) of this extension (CC0)
